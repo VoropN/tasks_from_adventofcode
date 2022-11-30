@@ -3,7 +3,7 @@
 
 ### To check the result clone this repo:
 ```bash
-git clone 
+git clone https://github.com/VoropN/tasks_from_adventofcode.git
 ```  
 
 then use Node.js to run it: 
@@ -14,4 +14,4 @@ node ./2021_day_1.js
 2. [task](https://adventofcode.com/2021/day/2) | [implementation](2021_day_2.js)
 ```bash
 node ./2021_day_2.js
-```# tasks_from_adventofcode
+```
